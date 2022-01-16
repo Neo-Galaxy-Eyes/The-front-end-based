@@ -2,57 +2,57 @@
 
 ### HTML：
 
-[html基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/HTML%E5%9F%BA%E7%A1%80/html%E5%9F%BA%E7%A1%80.md)
+[html基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/HTML/html%E5%9F%BA%E7%A1%80.md)
 
 
 
 ### CSS：
 
-[css基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS%E5%9F%BA%E7%A1%80/1.CSS%E5%9F%BA%E7%A1%80.md)
+[css基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS/1.CSS%E5%9F%BA%E7%A1%80.md)
 
-[页面布局](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS%E5%9F%BA%E7%A1%80/2.%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.md)
+[页面布局](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS/2.%E9%A1%B5%E9%9D%A2%E5%B8%83%E5%B1%80.md)
 
-[定位与浮动](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS%E5%9F%BA%E7%A1%80/3.%E5%AE%9A%E4%BD%8D%E4%B8%8E%E6%B5%AE%E5%8A%A8.md)
+[定位与浮动](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS/3.%E5%AE%9A%E4%BD%8D%E4%B8%8E%E6%B5%AE%E5%8A%A8.md)
 
-[场景应用](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS%E5%9F%BA%E7%A1%80/4.%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8.md)
+[场景应用](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/CSS/4.%E5%9C%BA%E6%99%AF%E5%BA%94%E7%94%A8.md)
 
 
 
 ### JavaScript：
 
-[数据类型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
+[数据类型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/1.%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.md)
 
-[ES6+](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/2.ES6%2B.md)
+[ES6+](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/2.ES6%2B.md)
 
-[JavaScript基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/3.JavaScript%E5%9F%BA%E7%A1%80.md)
+[JavaScript基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/3.JavaScript%E5%9F%BA%E7%A1%80.md)
 
-[原型与原型链](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/4.%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
+[原型与原型链](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/4.%E5%8E%9F%E5%9E%8B%E4%B8%8E%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
 
-[执行上下文+作用域+闭包](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/5.%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E9%97%AD%E5%8C%85.md)
+[执行上下文+作用域+闭包](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/5.%E6%89%A7%E8%A1%8C%E4%B8%8A%E4%B8%8B%E6%96%87%E4%BD%9C%E7%94%A8%E5%9F%9F%E9%93%BE%E9%97%AD%E5%8C%85.md)
 
-[this+call+apply+bind](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/6.thiscallapplybind.md)
+[this+call+apply+bind](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/6.thiscallapplybind.md)
 
-[异步编程](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/7.%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.md)
+[异步编程](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/7.%E5%BC%82%E6%AD%A5%E7%BC%96%E7%A8%8B.md)
 
-[面向对象](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Javascript%E5%9F%BA%E7%A1%80/8.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
+[面向对象](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/JavaScript/8.%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1.md)
 
 
 
 ### TypeScript：
 
-[类型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Typescript%E5%9F%BA%E7%A1%80/1.%E7%B1%BB%E5%9E%8B.md)
+[类型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/TypeScript/1.%E7%B1%BB%E5%9E%8B.md)
 
-[泛型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Typescript%E5%9F%BA%E7%A1%80/2.%E6%B3%9B%E5%9E%8B.md)
+[泛型](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/TypeScript/2.%E6%B3%9B%E5%9E%8B.md)
 
-[类型转换](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Typescript%E5%9F%BA%E7%A1%80/3.%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
+[类型转换](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/TypeScript/3.%E7%B1%BB%E5%9E%8B%E8%BD%AC%E6%8D%A2.md)
 
-[命名空间](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Typescript%E5%9F%BA%E7%A1%80/4.%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4.md)
+[命名空间](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/TypeScript/4.%E5%91%BD%E5%90%8D%E7%A9%BA%E9%97%B4.md)
 
 
 
 ### Vue：
 
-[Vue基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Vue%E5%9F%BA%E7%A1%80/1.vue%E5%9F%BA%E7%A1%80.md)
+[Vue基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Vue/1.vue%E5%9F%BA%E7%A1%80.md)
 
 
 

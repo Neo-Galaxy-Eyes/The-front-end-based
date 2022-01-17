@@ -54,6 +54,8 @@
 
 [Vue基础](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Vue/1.vue%E5%9F%BA%E7%A1%80.md)
 
+[组件通讯](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Vue/2.%E7%BB%84%E4%BB%B6%E9%80%9A%E8%AE%AF.md)
+
 
 
 ### 浏览器原理：

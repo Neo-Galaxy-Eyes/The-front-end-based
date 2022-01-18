@@ -56,6 +56,8 @@
 
 [组件通讯](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/blob/master/Vue/2.%E7%BB%84%E4%BB%B6%E9%80%9A%E8%AE%AF.md)
 
+[生命周期](https://github.com/Neo-Galaxy-Eyes/The-front-end-based/commit/a9f3ef4d775a1b03cd9bd9fb73362607ee9f6e5e)
+
 
 
 ### 浏览器原理：
